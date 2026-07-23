@@ -39,6 +39,7 @@ Hi, I'm Tisha Lathwal — a final-year MCA student passionate about building cle
 
 - HackerRank — Frontend Developer (React)
 - HackerRank — Python (Basic)
+- - HackerRank — Node.js (Intermediate)
 
 ---
 
@@ -47,8 +48,8 @@ Hi, I'm Tisha Lathwal — a final-year MCA student passionate about building cle
 Clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/Tishalathwal/<your-portfolio-repo-name>.git
-cd <your-portfolio-repo-name>
+git clone https://github.com/Tishalathwal/<Personal_Portfolio>.git
+cd <Personal_Portfolio>
 npm install
 npm run dev
 ```
@@ -63,9 +64,9 @@ npm run build
 
 ## 📬 Contact
 
-- **LinkedIn:** [Add your LinkedIn URL]
+- **LinkedIn:**[ [Add your LinkedIn URL]](https://www.linkedin.com/in/tisha-lathwal/)
 - **GitHub:** [github.com/Tishalathwal](https://github.com/Tishalathwal)
-- **Email:** [Add your email]
+- **Email:** tishalathwal55@gmail.com
 
 ---
 
