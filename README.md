@@ -39,7 +39,7 @@ Hi, I'm Tisha Lathwal — a final-year MCA student passionate about building cle
 
 - HackerRank — Frontend Developer (React)
 - HackerRank — Python (Basic)
-- - HackerRank — Node.js (Intermediate)
+- HackerRank — Node.js (Intermediate)
 
 ---
 
