@@ -27,7 +27,7 @@ Hi, I'm Tisha Lathwal — a final-year MCA student passionate about building cle
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Job Application Tracker** | Full-stack app to track job applications with auth, real-time data, and analytics dashboard | React, Redux Toolkit, Firebase (Auth + Firestore), Tailwind, Recharts |
+| **Job Application Tracker** | Frontend app to track job applications with auth, real-time data, and analytics dashboard | React, Redux Toolkit, Firebase (Auth + Firestore), Tailwind, Recharts |
 | **React + Redux Pastebin App** | A pastebin clone with persistent storage and routing | React, Redux Toolkit, React Router, Tailwind, localStorage |
 | **Face Recognition Attendance System** | Attendance system using facial recognition | Python, OpenCV, face_recognition, SQLite3, Tkinter |
 
