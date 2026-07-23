@@ -64,7 +64,7 @@ npm run build
 
 ## 📬 Contact
 
-- **LinkedIn:** [[Add your LinkedIn URL](https://www.linkedin.com/in/tisha-lathwal/)]
+- **LinkedIn:** [[Add your LinkedIn URL]](https://www.linkedin.com/in/tisha-lathwal/)
 - **GitHub:** [github.com/Tishalathwal](https://github.com/Tishalathwal)
 - **Email:** tishalathwal55@gmail.com
 
