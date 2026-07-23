@@ -12,15 +12,6 @@ Hi, I'm Tisha Lathwal — a final-year MCA student passionate about building cle
 
 ---
 
-## 🛠️ Built With
-
-- **React** (Vite)
-- **Tailwind CSS**
-- **Framer Motion** — for smooth animations and transitions
-- **Netlify** — deployment
-
----
-
 ## ✨ Features
 
 - Responsive design across devices
